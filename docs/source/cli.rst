@@ -30,6 +30,14 @@ and the installed console command is ``whoosh``::
     usage: whoosh [-h] {index,search} ...
 
 
+
+Check your installed version at any time with ``whoosh --version`` or
+``whoosh -V``::
+
+    $ whoosh --version
+    whoosh 3.5.0
+
+
 Index a folder
 ==============
 
